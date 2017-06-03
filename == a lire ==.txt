@@ -4,5 +4,34 @@ git clone https://github.com/username/username.github.io
  ->
 git clone https://github.com/moi65/myAIY.git
 
+Hello World
+Enter the project folder and add an index.html file:
+
 cd username.github.io
 echo "Hello World" > index.html
+
+Push it
+Add, commit, and push your changes:
+
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+
+GitHub Login
+  moi65@bluewin.ch
+  github_65
+
+moi65/myAIY
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Settings Insights
+
+Latest commit 15da0c4  2 minutes ago  Allamand Philippe Initial commit
+== a lire ==.txt	Initial commit	2 minutes ago
+index.html	      Initial commit	2 minutes ago
+
+
+https://moi65.github.io/myAIY/
+
+"Hello World"
+
+GitHub Pages
+ Your site is published at https://moi65.github.io/myAIY/
