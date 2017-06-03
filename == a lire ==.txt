@@ -1,0 +1,8 @@
+03.06.2017 10:16:36
+
+git clone https://github.com/username/username.github.io
+ ->
+git clone https://github.com/moi65/myAIY.git
+
+cd username.github.io
+echo "Hello World" > index.html
